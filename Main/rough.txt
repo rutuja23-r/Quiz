@@ -1,0 +1,32 @@
+Run in cmd or terminal as per requirements
+
+for local practice use : firebase serve
+
+for public use :  firebase deploy
+
+
+I just created it 
+/* {
+    question : "Which moon phase do you love the most?" ,
+    choice1 : "Full Moon " ,
+    choice2 : "Waning Gibbous" ,
+    choice3 : "Quarter",
+    choice4:  "Waning crescent"
+
+} ,
+{
+    question : "Which season do you love the most?" ,
+    choice1 : " Winter" ,
+    choice2 : "spring" ,
+    choice3 : "summer",
+    choice4:  "autumn or fall"
+
+} ,
+{
+    question : "At what  time of the day do you like to relax " ,
+    choice1 : "Morning tea with some songs" ,
+    choice2 : "afternoon (watching a movie or get a  nap) " ,
+    choice3 : "evening walk  or reading a book  with coffee",
+    choice4:  "midnight eating  some ice cream and watching the sky "
+
+}, */
